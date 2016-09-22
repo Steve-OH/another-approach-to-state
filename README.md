@@ -1,5 +1,6 @@
 # another-approach-to-state
-An approach for managing inter-component state interactions by moving state out of the components
+An approach for managing inter-component state interactions in cycle.js by
+moving state out of the components.
 
 You will need to have [Node.js](https://nodejs.org) installed to run this code.
 
