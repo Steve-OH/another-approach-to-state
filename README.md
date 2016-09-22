@@ -12,7 +12,7 @@ npm install
 
 This will install all of the dependencies.
 
-To run the code:
+To build and run the code:
 
 ```
 npm run dev
